@@ -1,0 +1,5 @@
+{
+  "PORT": 3000,
+  "jwtSecret": "Secret key, be carefully",
+  "mongoDb": "mongodb+srv://user:user_password@cluster0.evbtx.mongodb.net/db_try_alone?retryWrites=true&w=majority"
+}
